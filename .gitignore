@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
-*.log
-.streamlit/secrets.toml
-.env
+git-installer.exe
+football_app_upload.zip
